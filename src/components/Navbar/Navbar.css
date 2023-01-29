@@ -60,7 +60,7 @@
     display: none;
 }
 
-.app__navbar-smalscreen_overlay{
+.app__navbar-smallscreen_overlay{
     position: fixed;
     top: 0;
     left: 0;
@@ -72,7 +72,7 @@
     z-index: 5;
 }
 
-.app__navbar-smalscreen_overlay .overlay__close {
+.app__navbar-smallscreen_overlay .overlay__close {
     font-size: 27px;
     color: var(--color-golden);
     cursor: pointer;
