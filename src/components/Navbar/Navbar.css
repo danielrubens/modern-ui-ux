@@ -85,6 +85,20 @@
     list-style: none;
 }
 
+.app__navbar-smallscreen-links li {
+    margin: 2rem;
+    cursor: pointer;
+    color: var(--color-golden);
+    font-size: 2rem;
+    text-align: center;
+    font-family: var(--font-base);
+}
+
+.app__navbar-smallscreen-links li:hover {
+    color: var(--color-white)
+}
+
+
 @media screen and (max-width: 1150px) {
     .app__navbar-links {
         display: none;
