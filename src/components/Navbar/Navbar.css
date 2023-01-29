@@ -16,3 +16,16 @@
 .app__navbar-logo img {
     width: 150px;
 }
+
+.app__navbar-links{
+    flex: 1;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    list-style: none;
+}
+
+.app__navbar-links li{
+    margin: 0 1rem;
+    cursor: pointer;
+}
