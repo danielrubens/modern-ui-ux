@@ -14,7 +14,13 @@
 
 .app__header-img img {
     width: 80%;
+   
 }
+
+/* .app__wrapper_img img{
+    mix-blend-mode: multiply;
+    filter: contrast(1);
+} */
 
 @media screen and (min-width: 2000px) {
     .app__header-h1 {
